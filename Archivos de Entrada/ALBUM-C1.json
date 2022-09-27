@@ -1,0 +1,18 @@
+[
+    {
+        "nombre_album":"Blanco y negro",
+        "imgs":[1,2]
+    },
+    {
+        "nombre_album":"Mis Imagenes",
+        "imgs":[3,9]
+    },
+    {
+        "nombre_album":"Todas",
+        "imgs":[1,2,3,5,6,9]
+    },
+    {
+        "nombre_album":"Vacio",
+        "imgs":[]
+    }
+]
